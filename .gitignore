@@ -1,0 +1,23 @@
+.DS_Store
+
+# package dirs
+node_modules
+jspm_packages
+
+# package.json related
+yarn-error.log
+package-lock.json
+
+# Bundled results
+.serverless
+.webpack
+dist
+
+# IDE
+.idea
+.vscode
+
+#.env
+.env
+.env.*
+!.env.sample
